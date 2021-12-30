@@ -8,3 +8,7 @@ Design scalable and High performance system Design/Architecture
 ## Coustom Distributed Automatic Processing Service Architecture (Like: AWS Lambda)
 
 <img src="https://github.com/rishant/system-design-architecture/blob/main/CustomLambdaEcoSystem.drawio.png" alt="MyAutomaticProcessing">
+
+## Analogy of terraform Architecture (Like: AWS Cloudformation)
+
+<img src="https://github.com/rishant/system-design-architecture/blob/main/Hashicorp_teraform_design_analogy.drawio.png" alt="Terraform">
