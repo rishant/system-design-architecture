@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-30T16:16:40.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="w8rq6aM1qnuTIXmWdnog" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-30T16:18:34.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="xW1_AzceB0TJOqpKsEkq" version="16.1.0" type="github">
   <diagram id="iaHtYJtHQmcGieBMvMID" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="49Jwu3y91eQwiNkIEMaA-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="150" y="110" width="428" height="355" as="geometry" />
         </mxCell>
-        <mxCell id="49Jwu3y91eQwiNkIEMaA-1" value="Infrastructures&lt;br&gt;Manager&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
+        <mxCell id="49Jwu3y91eQwiNkIEMaA-1" value="&lt;b&gt;Infrastructures&lt;br&gt;Manager&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
           <mxGeometry y="75.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="49Jwu3y91eQwiNkIEMaA-2" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.script;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
@@ -19,13 +19,13 @@
         <mxCell id="49Jwu3y91eQwiNkIEMaA-5" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.process;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
           <mxGeometry x="325" y="73.5" width="52" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="49Jwu3y91eQwiNkIEMaA-6" value="Process Script Template and Call Cloud provider Resource Provisioning APIs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
+        <mxCell id="49Jwu3y91eQwiNkIEMaA-6" value="&lt;b&gt;Process Script Template and Call Cloud provider Api&#39;s&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
           <mxGeometry x="290" y="145" width="138" height="50" as="geometry" />
         </mxCell>
         <mxCell id="49Jwu3y91eQwiNkIEMaA-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#FF0000;shape=mxgraph.azure.git_repository;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
           <mxGeometry x="160" y="220" width="35" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="49Jwu3y91eQwiNkIEMaA-8" value="Git Repo for IaaS code" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
+        <mxCell id="49Jwu3y91eQwiNkIEMaA-8" value="&lt;b&gt;Git Repo for IaaS code&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
           <mxGeometry x="190" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Jwu3y91eQwiNkIEMaA-9" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="49Jwu3y91eQwiNkIEMaA-18" target="49Jwu3y91eQwiNkIEMaA-2">
@@ -41,7 +41,7 @@
         <mxCell id="49Jwu3y91eQwiNkIEMaA-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="49Jwu3y91eQwiNkIEMaA-18" source="49Jwu3y91eQwiNkIEMaA-10" target="49Jwu3y91eQwiNkIEMaA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="49Jwu3y91eQwiNkIEMaA-10" value="Terraform engine" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.emr_engine;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
+        <mxCell id="49Jwu3y91eQwiNkIEMaA-10" value="&lt;b&gt;Terraform engine&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.emr_engine;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
           <mxGeometry x="135" y="85" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="49Jwu3y91eQwiNkIEMaA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="49Jwu3y91eQwiNkIEMaA-18" source="49Jwu3y91eQwiNkIEMaA-1" target="49Jwu3y91eQwiNkIEMaA-10">
@@ -56,7 +56,7 @@
             <mxPoint x="210" y="50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="49Jwu3y91eQwiNkIEMaA-15" value="Resource Provisions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
+        <mxCell id="49Jwu3y91eQwiNkIEMaA-15" value="Call Resource Provisions Apis" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
           <mxGeometry x="170" y="60" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="49Jwu3y91eQwiNkIEMaA-16" value="Response Callback" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="49Jwu3y91eQwiNkIEMaA-18">
