@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T05:31:55.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UkiZcebps5n75zwlgWrP" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T05:41:08.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SdD7sW2YWM5IyDNlfMpD" version="15.5.0" type="github">
   <diagram id="AXm_I2ttIVFIWqhGo-dT" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -69,8 +69,37 @@
         <mxCell id="MDjKrCd_UHIQp9SryKAu-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Lucida Console&quot;&gt;&lt;i style=&quot;background-color: rgb(18 , 208 , 255)&quot;&gt;TestRails&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="540" y="254" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.133;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Lucida Console;fontSize=14;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-48" target="MDjKrCd_UHIQp9SryKAu-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=8;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363.5" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MDjKrCd_UHIQp9SryKAu-48" value="Jenkins Pipeline" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/jenkins-128.png;fontFamily=Lucida Console;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="390" y="350" width="45" height="45" as="geometry" />
+          <mxGeometry x="341" y="350" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-49" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AutoMation Testsuite&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.automation;pointerEvents=1;labelBackgroundColor=#12D0FF;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="600" y="340" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-51" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;5. Jenkins Pipeline for&lt;font style=&quot;font-size: 10px&quot;&gt; &lt;/font&gt;Automation testsuite&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="365" y="314" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-53" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;1. Pull SCM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="196" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-54" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;2. Gradle/Maven Build&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="196" y="320" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-55" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;3. Junit Test-cases&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="191" y="340" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-56" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;4. Sonar Report&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="365" y="294" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-57" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;6. Surefire/Jacacoo/allure Report&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="365" y="334" width="240" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
