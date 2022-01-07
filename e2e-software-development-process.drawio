@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T05:21:34.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="j7_KvMmJo892wU_GP5xw" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T05:23:44.353Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mdSn5OHf1sf0JalUZstf" version="15.5.0" type="github">
   <diagram id="AXm_I2ttIVFIWqhGo-dT" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,6 +16,11 @@
         <mxCell id="MDjKrCd_UHIQp9SryKAu-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.478;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-6" target="MDjKrCd_UHIQp9SryKAu-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="351" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MDjKrCd_UHIQp9SryKAu-6" value="Development Team&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="341" y="118" width="20" height="40" as="geometry" />
         </mxCell>
@@ -28,23 +33,29 @@
         <mxCell id="MDjKrCd_UHIQp9SryKAu-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px ; background-color: rgb(255 , 143 , 15)&quot;&gt;Agile Development Process&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB914;" vertex="1" parent="1">
           <mxGeometry x="50" y="10" width="630" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Write Epic/Story in Jira&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="60" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-39" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="220" width="120" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-27" value="" style="image;image=img/lib/atlassian/Jira_Software_Logo.svg;labelBackgroundColor=#FF8F0F;fontSize=20;fillColor=#FFB914;" vertex="1" parent="1">
-          <mxGeometry x="60" y="268" width="30" height="26" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-30" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Write Epic/Story in Jira&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=15;fillColor=#FFFFFF;" vertex="1" parent="MDjKrCd_UHIQp9SryKAu-39">
+          <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-28" value="" style="image;image=img/lib/atlassian/Jira_Logo.svg;labelBackgroundColor=#FFFFFF;fontSize=15;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="140" y="272" width="30" height="22" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-27" value="" style="image;image=img/lib/atlassian/Jira_Software_Logo.svg;labelBackgroundColor=#FF8F0F;fontSize=20;fillColor=#FFB914;" vertex="1" parent="MDjKrCd_UHIQp9SryKAu-39">
+          <mxGeometry y="48" width="30" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-33" value="Write Code and Push to Code Repository" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="300" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-28" value="" style="image;image=img/lib/atlassian/Jira_Logo.svg;labelBackgroundColor=#FFFFFF;fontSize=15;fillColor=#FFFFFF;" vertex="1" parent="MDjKrCd_UHIQp9SryKAu-39">
+          <mxGeometry x="80" y="52" width="30" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-35" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="390" y="270" width="30" height="30.1" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-40" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="300" y="220" width="120" height="80.10000000000002" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-37" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.java;labelBackgroundColor=#FFFFFF;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="300" y="260" width="24.4" height="40.1" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-33" value="Write Code, Junit and Push to Code Repository" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="MDjKrCd_UHIQp9SryKAu-40">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-35" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="MDjKrCd_UHIQp9SryKAu-40">
+          <mxGeometry x="90" y="50" width="30" height="30.1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-37" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.java;labelBackgroundColor=#FFFFFF;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="MDjKrCd_UHIQp9SryKAu-40">
+          <mxGeometry y="40" width="24.4" height="40.1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
