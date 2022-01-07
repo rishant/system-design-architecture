@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T05:28:51.049Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uh_AyElhQYfshWuhKXeK" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T05:31:55.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="UkiZcebps5n75zwlgWrP" version="15.5.0" type="github">
   <diagram id="AXm_I2ttIVFIWqhGo-dT" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="MDjKrCd_UHIQp9SryKAu-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot; face=&quot;Lucida Console&quot;&gt;&lt;i style=&quot;background-color: rgb(18 , 208 , 255)&quot;&gt;TestRails&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="540" y="254" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-48" value="Jenkins Pipeline" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/jenkins-128.png;fontFamily=Lucida Console;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="350" width="45" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
