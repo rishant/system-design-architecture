@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T05:41:08.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SdD7sW2YWM5IyDNlfMpD" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-07T07:02:18.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uBUPKAO-A6mcoBy8iv2B" version="15.5.0" type="github">
   <diagram id="AXm_I2ttIVFIWqhGo-dT" name="Page-1">
     <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -77,29 +77,173 @@
             <mxPoint x="363.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=-0.075;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Lucida Console;fontSize=10;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-48" target="MDjKrCd_UHIQp9SryKAu-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="364" y="448" />
+              <mxPoint x="359" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-90" value="&lt;b style=&quot;font-family: &amp;#34;lucida console&amp;#34; ; font-size: x-small&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 10px ; background-color: rgb(13 , 239 , 255)&quot;&gt;5. Deployment using&lt;br&gt;Rundeck/Ansible&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;" vertex="1" connectable="0" parent="MDjKrCd_UHIQp9SryKAu-59">
+          <mxGeometry x="-0.2373" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MDjKrCd_UHIQp9SryKAu-48" value="Jenkins Pipeline" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/jenkins-128.png;fontFamily=Lucida Console;fontSize=14;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="341" y="350" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="MDjKrCd_UHIQp9SryKAu-49" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;AutoMation Testsuite&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.automation;pointerEvents=1;labelBackgroundColor=#12D0FF;fontFamily=Lucida Console;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="600" y="340" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-51" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;b&gt;5. Jenkins Pipeline for&lt;font style=&quot;font-size: 10px&quot;&gt; &lt;/font&gt;Automation testsuite&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="365" y="314" width="290" height="20" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-51" value="&lt;font style=&quot;font-size: 10px&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;background-color: rgb(13 , 239 , 255)&quot;&gt;6. Jenkins Pipeline for&lt;font style=&quot;font-size: 10px&quot;&gt; &lt;/font&gt;Automation testsuite&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="378" y="320" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-53" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;1. Pull SCM&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="196" y="300" width="90" height="20" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-53" value="&lt;span style=&quot;background-color: rgb(13 , 239 , 255)&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;1. Pull SCM&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;2. Gradle/Maven Build&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 11px&quot;&gt;3. Junit Test-cases&lt;/b&gt;&lt;/span&gt;&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="223" y="310" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-54" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;2. Gradle/Maven Build&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="196" y="320" width="160" height="20" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-56" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;font-size: 11px ; background-color: rgb(13 , 239 , 255)&quot;&gt;4. Sonar Report&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="375" y="294" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-55" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;3. Junit Test-cases&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="191" y="340" width="150" height="20" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-58" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.virtual_deployment;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="335" y="500" width="50" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-56" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;4. Sonar Report&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="365" y="294" width="120" height="20" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-61" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="378" y="550" width="35" height="28.7" as="geometry" />
         </mxCell>
-        <mxCell id="MDjKrCd_UHIQp9SryKAu-57" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 11px&quot;&gt;6. Surefire/Jacacoo/allure Report&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontFamily=Lucida Console;" vertex="1" parent="1">
-          <mxGeometry x="365" y="334" width="240" height="20" as="geometry" />
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-62" value="VM" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="342" y="551.1" width="30" height="27.6" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-64" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="307" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=10;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-65" target="MDjKrCd_UHIQp9SryKAu-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="264" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-65" value="&lt;b&gt;&lt;font face=&quot;Helvetica&quot;&gt;EC2 &lt;br&gt;AutoScale&lt;/font&gt;&lt;/b&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#EF8F21;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.1_click_failover_orchestration;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="241.2" y="630" width="44.8" height="44.8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Lucida Console;fontSize=10;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-66" target="MDjKrCd_UHIQp9SryKAu-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="665" />
+              <mxPoint x="300" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-66" value="AWS Fargate" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.fargate;labelBackgroundColor=#FFFFFF;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="307" y="630" width="46" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=10;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-69" target="MDjKrCd_UHIQp9SryKAu-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-69" value="&lt;b&gt;Kubernetes&lt;br&gt;Orchestration&lt;/b&gt;" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="375" y="630" width="50" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.124;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Helvetica;fontSize=10;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-71" target="MDjKrCd_UHIQp9SryKAu-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="465" y="572" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-71" value="Amazon EKS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="445" y="630" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-74" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="MDjKrCd_UHIQp9SryKAu-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="410" as="sourcePoint" />
+            <mxPoint x="370" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="470" />
+              <mxPoint x="370" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-75" value="&lt;b style=&quot;background-color: rgb(13 , 239 , 255)&quot;&gt;7. Run Automation Test-Suite and Build Report&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;" vertex="1" connectable="0" parent="MDjKrCd_UHIQp9SryKAu-74">
+          <mxGeometry x="-0.0151" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-77" value="Performance&lt;br&gt;Testing Team" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="510" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/SEO_stopwatch_timer_performance-128.png;fontFamily=Helvetica;fontSize=10;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="70" y="490" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-82" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="MDjKrCd_UHIQp9SryKAu-77" target="MDjKrCd_UHIQp9SryKAu-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="515" as="sourcePoint" />
+            <mxPoint x="290" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="290" y="540" />
+              <mxPoint x="290" y="522" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-91" value="&lt;span style=&quot;background-color: rgb(13 , 239 , 255)&quot;&gt;&lt;b&gt;9. Performance Api Test-Suite using Jmeter&lt;/b&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;" vertex="1" connectable="0" parent="MDjKrCd_UHIQp9SryKAu-82">
+          <mxGeometry x="-0.1013" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-84" value="Performance&lt;br&gt;Report" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="624" width="36.8" height="50.8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-85" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="550" as="sourcePoint" />
+            <mxPoint x="129" y="649" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="64" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-86" value="&lt;b style=&quot;background-color: rgb(13 , 239 , 255)&quot;&gt;10. Build and Share &lt;br&gt;Report&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;" vertex="1" connectable="0" parent="MDjKrCd_UHIQp9SryKAu-85">
+          <mxGeometry x="-0.2602" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-87" value="Automation&lt;br&gt;Report" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.report;labelBackgroundColor=#FFFFFF;fontFamily=Helvetica;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="583.2" y="554.6" width="36.8" height="50.8" as="geometry" />
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-88" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="MDjKrCd_UHIQp9SryKAu-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="625" y="410" as="sourcePoint" />
+            <mxPoint x="670" y="476" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="490" />
+              <mxPoint x="618" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-89" value="&lt;b style=&quot;font-size: 11px ; background-color: rgb(13 , 239 , 255)&quot;&gt;8. Surefire/Jacacoo/allure Report&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;" vertex="1" connectable="0" parent="MDjKrCd_UHIQp9SryKAu-88">
+          <mxGeometry x="0.0797" y="1" relative="1" as="geometry">
+            <mxPoint y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-92" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=10;edgeStyle=orthogonalEdgeStyle;entryX=0.273;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MDjKrCd_UHIQp9SryKAu-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="160" as="sourcePoint" />
+            <mxPoint x="380" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="160" />
+              <mxPoint x="130" y="140" />
+              <mxPoint x="190" y="140" />
+              <mxPoint x="190" y="480" />
+              <mxPoint x="220" y="480" />
+              <mxPoint x="220" y="497" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MDjKrCd_UHIQp9SryKAu-93" value="&lt;b style=&quot;background-color: rgb(13 , 239 , 255)&quot;&gt;11. Validate Feature&lt;br&gt;and Provide Feadbacks&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontFamily=Helvetica;" vertex="1" connectable="0" parent="MDjKrCd_UHIQp9SryKAu-92">
+          <mxGeometry x="0.2366" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
