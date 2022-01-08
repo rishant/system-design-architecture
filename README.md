@@ -15,3 +15,6 @@ Design scalable and High performance system Design/Architecture
 
 ## E-2-E Project Developemnt life Cycle
 <img src="https://github.com/rishant/system-design-architecture/blob/main/e2e-software-development-process.drawio.png" alt="E2E">
+
+## Client-Server Communication
+<img src="https://github.com/rishant/system-design-architecture/blob/main/ClientServerCommunication.drawio.png" alt="C2S">
