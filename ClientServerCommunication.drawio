@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T07:48:17.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ZXLBzUpy4BfAtmSLko10" version="16.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T07:49:01.184Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="a_3RQo6LvxqfZaEcq2kZ" version="16.2.2" type="github">
   <diagram id="1ULBOgjq--OH4BLi5vVC" name="Page-1">
     <mxGraphModel dx="782" dy="1536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
             <mxPoint x="29" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SEUXneYZg_4IdqDXwgJY-5" value="&lt;span&gt;&lt;b&gt;Protocols&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;TCP over IP&lt;/span&gt;&lt;br&gt;&lt;span&gt;HTTP/1.0/2.0/3.0 over UDP/TCP/IP&lt;/span&gt;&lt;br&gt;&lt;span&gt;RestAPI over HTTP&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(77 , 81 , 86) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;MQTT over tcp/ip&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="SEUXneYZg_4IdqDXwgJY-5" value="&lt;span&gt;&lt;b&gt;Protocols&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span&gt;TCP over IP&lt;/span&gt;&lt;br&gt;&lt;span&gt;HTTP/1.0/2.0/3.0 over UDP/TCP/IP&lt;/span&gt;&lt;br&gt;&lt;span&gt;RestAPI over HTTP&lt;br&gt;WebSocket over HTTP&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(77 , 81 , 86) ; font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;MQTT over tcp/ip&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="345" y="105" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="SEUXneYZg_4IdqDXwgJY-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.627;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SEUXneYZg_4IdqDXwgJY-7" target="SEUXneYZg_4IdqDXwgJY-5">
