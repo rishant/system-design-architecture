@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-08T21:13:56.389Z" agent="5.0 (Windows)" etag="YI5ZCml0fOowY_l74p1f" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-08T21:19:17.667Z" agent="5.0 (Windows)" etag="kSYuUBN9-4bj0q4kXJEP" version="16.2.4" type="github">
   <diagram id="YiBS9SyUtZm0pEoMCczj" name="Page-1">
     <mxGraphModel dx="1022" dy="1492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -135,6 +135,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="290" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="755" y="250" />
+              <mxPoint x="705" y="250" />
               <mxPoint x="705" y="290" />
             </Array>
           </mxGeometry>
@@ -226,6 +228,85 @@
             <mxPoint x="45" y="180" as="sourcePoint" />
             <mxPoint x="100" y="140.9000000000001" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="brArj6lu671APv80hZgv-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="290" as="sourcePoint" />
+            <mxPoint x="900" y="152.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="860" y="165" />
+              <mxPoint x="880" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-58" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.98;exitY=0.636;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="brArj6lu671APv80hZgv-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="838.6096256684491" y="180" as="sourcePoint" />
+            <mxPoint x="915" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="870" y="220" />
+              <mxPoint x="890" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-61" value="Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="930" y="298.1" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-62" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="brArj6lu671APv80hZgv-61" source="brArj6lu671APv80hZgv-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="871" y="318.5333333333333" as="sourcePoint" />
+            <mxPoint x="971" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="830" y="305" />
+              <mxPoint x="891" y="305" />
+              <mxPoint x="911" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-63" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.98;exitY=0.636;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="brArj6lu671APv80hZgv-61">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="367.02240000000006" as="sourcePoint" />
+            <mxPoint x="941" y="302.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="901" y="360" />
+              <mxPoint x="921" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brArj6lu671APv80hZgv-64" target="brArj6lu671APv80hZgv-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="100" />
+              <mxPoint x="970" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-64" value="Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="990" y="58" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="brArj6lu671APv80hZgv-65" target="brArj6lu671APv80hZgv-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="133" />
+              <mxPoint x="1000" y="160" />
+              <mxPoint x="950" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-65" value="Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="1050" y="108" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brArj6lu671APv80hZgv-66" target="brArj6lu671APv80hZgv-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-66" value="Database" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="990" y="170.9" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-67" value="&lt;div&gt;Query Router&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="890" y="135" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="brArj6lu671APv80hZgv-74" value="&lt;div&gt;Query Router&lt;/div&gt;" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="900" y="140" width="60" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
