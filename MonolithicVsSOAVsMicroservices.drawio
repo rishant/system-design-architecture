@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T07:46:59.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="ZX6gIhCMkAABE3DGG3XP" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T07:47:27.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="iqQ3ZXof-KzGEaC8ri-n" version="16.4.3" type="github">
   <diagram id="GwWN1pVUDdLghwZrit8f" name="Page-1">
     <mxGraphModel dx="782" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -158,6 +158,11 @@
         <mxCell id="T3a6LwRcXDjMifkzxQnk-64" value="API Gateway + Discovery Server + External Config + Log Monitoring + CICD DevOps + Cloud Service Integration" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="802" y="534" width="363.8" height="30" as="geometry" />
         </mxCell>
+        <UserObject label="https://www.youtube.com/watch?v=XjpxyGEUzBs" link="https://www.youtube.com/watch?v=XjpxyGEUzBs" id="T3a6LwRcXDjMifkzxQnk-65">
+          <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+            <mxGeometry x="80" width="290" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
