@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T08:09:58.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="fLjhG-irw7G05vD9PDCP" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T08:16:23.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-9dx1tWg8aIIuSdx-sUs" version="16.4.3" type="github">
   <diagram id="GwWN1pVUDdLghwZrit8f" name="Page-1">
     <mxGraphModel dx="782" dy="1568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="T3a6LwRcXDjMifkzxQnk-2" value="Monolithic - Software Architecture" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T3a6LwRcXDjMifkzxQnk-3" value="Service Oriented - Software Architecture" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="160" width="250" height="30" as="geometry" />
+        <mxCell id="T3a6LwRcXDjMifkzxQnk-3" value="Service Oriented - Software Architecture&lt;br&gt;Centralized System&amp;nbsp;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T3a6LwRcXDjMifkzxQnk-4" value="1. Tightly couple code. Code reusability is not present.&amp;nbsp;&lt;br&gt;2. Any changes in the system will cause more time for validation and release.&lt;br&gt;3. Any changes in the system, So complete system with be shutdown.&lt;br&gt;4. Frontend-Backend-Database are tightly coupled." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="230" width="250" height="190" as="geometry" />
@@ -149,8 +149,8 @@
         <mxCell id="T3a6LwRcXDjMifkzxQnk-58" value="DB" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="850" y="720" width="37.8" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="T3a6LwRcXDjMifkzxQnk-62" value="Micro Service Oriented - Software Architecture" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="160" width="268" height="30" as="geometry" />
+        <mxCell id="T3a6LwRcXDjMifkzxQnk-62" value="Micro Service Oriented - Software Architecture&lt;br&gt;De-Centralized System" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="790" y="140" width="268" height="50" as="geometry" />
         </mxCell>
         <mxCell id="T3a6LwRcXDjMifkzxQnk-63" value="1. Loose couple Module/Service driven architecture and follow code reusability as dependencies.&amp;nbsp;&lt;br&gt;2. Free to choose any technology to build the system and upgrade is easy.&lt;br&gt;3. Autonomous Service as Sub-Domains System.&lt;br&gt;4. Per service Separate Database, Overcome to Database bottelnek for scalability.&lt;br&gt;5. (Frontend) - (Backend) - (Database) are in N tiers architecture.&lt;br&gt;6. Scale independent and Autonomous Service on Commodity Hardwares.&amp;nbsp;&lt;br&gt;7. Parallel Deployment.&lt;br&gt;8. Network Latency." style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="792" y="200" width="248" height="220" as="geometry" />
