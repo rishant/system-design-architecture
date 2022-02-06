@@ -19,5 +19,5 @@ Design scalable and High performance system Design/Architecture
 ### Client-Server Communication
 <img src="https://github.com/rishant/system-design-architecture/blob/main/ClientServerCommunication.drawio.png" alt="C2S">
 
-### User Secuirity And Stateless Transaction:
+### User Security And Stateless Transaction:
 <img src="https://github.com/rishant/system-design-architecture/blob/main/UserAuthenticationAuthorizationFlow.drawio.png" alt="C2S">
